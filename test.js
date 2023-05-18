@@ -1,5 +1,3 @@
-teste = () => {
+function test() {
     return {};
 }
-
-teste();

@@ -1,5 +1,5 @@
 teste = () => {
-    return console.log('Teste Rodando!');
+    return {};
 }
 
 teste();
